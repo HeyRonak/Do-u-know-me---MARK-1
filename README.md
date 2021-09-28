@@ -8,4 +8,4 @@ For each correct answer you got 1 point.
 
 
 ### To play this quiz
-[Click here](https://replit.com/@Ronak1111/Do-you-know-me-mark1-1?embed=1&output=1#index.js)
+[Click here](https://replit.com/@Ronak1111/neog-camp-mark-2?#index.js?embed=1&output=1)
