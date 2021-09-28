@@ -1,7 +1,7 @@
 
 # Quiz app 
 
-#### A interesting quiz which shows that you know about ronak or not ?
+#### A interesting quiz application which shows that you know about ronak or not ?
 
 ## Instructions:
 For each correct answer you got 1 point.
